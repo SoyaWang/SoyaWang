@@ -43,7 +43,7 @@ I have bachelor degrees at Remin University of China(in China) and KEDGE Busines
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/xT1XGNBGpDxtI1rcHq/giphy.gif)
+![Thank You GIF](https://s4.ezgif.com/tmp/ezgif-4-d45c04b44b.gif)
 
 
 <!--
