@@ -2,8 +2,7 @@
 ## 👋 Hello, I'm Soya Wang!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/SoyaWang)  
 
 ---
 
@@ -11,9 +10,9 @@
 
 - 🧑‍💻 **Developer** passionate about Finance, Economics, Data Science.  
 - 🌍 **Based in:** New York & Beijing.  
-- 📚 Constantly learning about Quantitative Method in the Social Sciences.  
-- 💬 Ask me about [your areas of expertise].  
-
+- 📚 **Constantly learning about:** Quantitative Method in the Social Sciences at Columbia University.  
+- 📫 **How to reach me:** xw3028@columbia.edu
+  
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
@@ -35,9 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoyaWang&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyaWang&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyaWang&layout=compact&theme=tokyonight)
 
 
 ---
