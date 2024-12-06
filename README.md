@@ -1,16 +1,18 @@
 
 ## 👋 Hello, I'm Soya Wang!
+Currently a QMSS(Quantitative Method in the Social Science) student at Columbia University. Learning courses as Modern Data Structure, Data Analysis for the Social Sciences, Time Series Panel Data & Forecasting, Natural Language Processing Social Sciences.
+I have bachelor degrees at Remin University of China(in China) and KEDGE Business School(in France),majoring in Finance and Commerce respectively.(Yeah I can speak three languages!)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/SoyaWang)  
-
+[![GitHub followers](https://img.shields.io/github/followers/SoyaWang?label=Follow&style=social)](https://github.com/SoyaWang)  
+![Columbia University qmss Sketch](https://s4.ezgif.com/tmp/ezgif-4-62b540e9bd.gif)
 ---
 
 ## 🌟 About Me
 
 - 🧑‍💻 **Developer** passionate about Finance, Economics, Data Science.  
 - 🌍 **Based in:** New York & Beijing.  
-- 📚 **Constantly learning about:** Quantitative Method in the Social Sciences at Columbia University.  
+- 📚 **Constantly learning about:** Quantitative Method in the Social Sciences.  
 - 📫 **How to reach me:** xw3028@columbia.edu
   
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
